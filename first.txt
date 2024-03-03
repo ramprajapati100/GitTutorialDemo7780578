@@ -2,3 +2,5 @@ i want to commit
 this is first verion of file
 not this file
 this is new line
+
+dms;fm;sm;
